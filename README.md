@@ -1,2 +1,2 @@
-# Girilen Degeri oOnluk sisteme cevirme
- kullanıcıdan alınan herhangi bir sayılık sistemde ki sayıyı onluk sisteme çevirme
+# Girilen Degeri Onluk Sisteme Cevirme
+ girilen herhangi bir sayı sistemindeki değeri onluk sisteme çevirme
